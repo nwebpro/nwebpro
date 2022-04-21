@@ -8,7 +8,7 @@ Hi there, It's me, Ab Naeem. I am a Professional Web designer & WordPress expert
 
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=nwebpro&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ab Naeem's github stats](https://github-readme-stats.vercel.app/api?username=nwebpro&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwebpro&layout=compact&theme=tokyonight&hide")
 
