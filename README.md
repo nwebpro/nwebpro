@@ -1,12 +1,7 @@
 ## Hi, I'm Ali Hossain 👋
-<p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
 
 ![Profile views](https://gpvc.arturio.dev/nwebpro) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwebpro&label=Profile%20views&color=0e75b6&style=flat" alt="nwebpro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nwebpro" alt="nwebpro" /></a> </p>
 
