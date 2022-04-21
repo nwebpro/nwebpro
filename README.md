@@ -1,4 +1,8 @@
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+<a href="https://app.daily.dev/nwebpro">
+    <img src="https://api.daily.dev/devcards/eea00411bac943d5be5e61b928094ebb.png?r=8u2" width="400" alt="Ab Naeem's Dev Card"/>
+</a>
+
+### Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
 Hi there, It's me, Ab Naeem. I am a Professional Web designer & WordPress expert from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Over the past years, I created 50+ websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but also I learned  JavaScript, ReactJS, NodeJS, CSS3 Animation etc.
 
