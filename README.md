@@ -1,4 +1,10 @@
-<h1 align="left">Hi 👋, I'm Ab Naeem</h1>
+## Hi, I'm Ali Hossain 👋
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
+
+![Profile views](https://gpvc.arturio.dev/shovoalways) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwebpro&label=Profile%20views&color=0e75b6&style=flat" alt="nwebpro" /> </p>
 
