@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=AA00F7&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=Welcome+to+my+Github+Profile!;Thank+you...)](https://git.io/typing-svg)
 
 ### Hi there my gorgeous friend
 
