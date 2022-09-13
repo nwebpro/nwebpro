@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=AA00F7&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=Welcome+to+my+Github+Profile!;Thank+you...)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=ffffff&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Github+Profile!)
 
 ### Hi there my gorgeous friend
 
@@ -34,3 +34,6 @@ Hi there, It's me, Ab Naeem. I am a Professional Web designer & WordPress expert
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nwebpro.nwebpro)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=ffffff&center=true&vCenter=true&width=1000&height=100&lines=Thank+you...)
