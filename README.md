@@ -1,9 +1,9 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer;" alt="Typing SVG" /></a></p>
 
 ### Hi there my gorgeous friend👋
-Hi there, It's me, Ab Naeem. I'm an expert with React Js, JavaScript, ES6, REST API, Firebase, Node Js, MongoDB, React Bootstrap, Bootstrap, HTML5, CSS3, SASS, Tailwind CSS, Daisy UI, and Headless UI to create various features for client websites. Combine this with my ability to thrive in a collaborative environment, and I think that makes me a perfect fit for Frontend React Developer.
+Hi there, It's me, Abu Hanif Monna. I'm an expert with React Js, JavaScript, ES6, REST API, Firebase, Node Js, MongoDB, React Bootstrap, Bootstrap, HTML5, CSS3, SASS, Tailwind CSS, Daisy UI, and Headless UI to create various features for client websites. Combine this with my ability to thrive in a collaborative environment, and I think that makes me a perfect fit for Frontend React Developer.
 
-:coffee: &emsp;Connect with me!
+<!-- :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abnaeembsc) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developernaeem/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nwebpro) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/developernaeem) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnaeem.bsc@gmail.com) [![Behance Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abnaeembsc)
 
@@ -15,7 +15,7 @@ Hi there, It's me, Ab Naeem. I'm an expert with React Js, JavaScript, ES6, REST 
 
 ![Ab Naeem's github stats](https://github-readme-stats.vercel.app/api?username=nwebpro&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwebpro&layout=compact&theme=tokyonight&hide")
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwebpro&layout=compact&theme=tokyonight&hide") -->
 
 
 <!-- ## 💻 Things I code with -->
@@ -75,7 +75,7 @@ Hi there, It's me, Ab Naeem. I'm an expert with React Js, JavaScript, ES6, REST 
 <!-- [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
-
+<!-- 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nwebpro&theme=react&hide_border=false) 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -89,4 +89,4 @@ Hi there, It's me, Ab Naeem. I'm an expert with React Js, JavaScript, ES6, REST 
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nwebpro.nwebpro)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nwebpro.nwebpro) -->
