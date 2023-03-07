@@ -13,7 +13,7 @@ Hi there, It's me, Naeem. I'm an expert with React Js, JavaScript, ES6, REST API
 
 ### Github Stats
 
-![Ab Naeem's github stats](https://github-readme-stats.vercel.app/api?username=nwebpro&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Naeem's github stats](https://github-readme-stats.vercel.app/api?username=nwebpro&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwebpro&layout=compact&theme=tokyonight&hide")
 
