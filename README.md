@@ -89,4 +89,4 @@ Hi there, It's me, Naeem. I'm an expert with React Js, JavaScript, ES6, REST API
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nwebpro.nwebpro)
+![visitors](https://komarev.com/ghpvc/?username=nwebpro)
